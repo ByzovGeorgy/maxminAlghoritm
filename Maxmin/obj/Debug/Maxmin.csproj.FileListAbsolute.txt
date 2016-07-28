@@ -1,0 +1,6 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Maxmin\Maxmin\bin\Debug\Maxmin.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Maxmin\Maxmin\bin\Debug\Maxmin.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Maxmin\Maxmin\bin\Debug\Maxmin.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Maxmin\Maxmin\obj\Debug\Maxmin.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Maxmin\Maxmin\obj\Debug\Maxmin.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Maxmin\Maxmin\obj\Debug\Maxmin.pdb
